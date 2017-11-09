@@ -1,2 +1,2 @@
 # testrepo
-This is a testrepofpr Week 3 Lecture Assignment
+This is a testrepo for Week 3 Lecture Assignment
